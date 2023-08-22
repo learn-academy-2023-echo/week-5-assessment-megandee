@@ -28,7 +28,7 @@ Researched answer: A relational database is a table of information made up of ro
 
 Your answer: Primary keys are essentially ID numbers. They allow us another way to access our data and they serve us in an organized way with our parent and child tables.
 
-Researched answer:
+Researched answer: Primary keys are unique identifiers that benifit us as coders in many ways. They give us another way to access database information. They also help us coorelate between our parent and child tables. They are a great tool for organization. Bonus, we do not have to assign the Primary Key, rails does that for us! we just have to be sure to match the foreign key for our child table.
 
 5. What are the five HTTP verbs? What is each verb's corresponding CRUD action?
 
